@@ -1,1 +1,3 @@
 This Folder contains the Screenshots of the results obtained by running the vb scripts on each sheet seperately for years 2014, 2015 and 2016 respectively.
+
+It will return the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
